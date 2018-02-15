@@ -1,0 +1,10 @@
+#org.jbehave.core.embedder.StoryManager
+#Tue Feb 13 20:15:33 CET 2018
+Stories/RadioButtonStory.story=1000
+Stories/TableFilterStory.story=2000
+threads=1
+total=13000
+Stories/SimpleFormStory.story=6000
+threadAverage=13000
+Stories/InputFormStory.story=4000
+Stories/AjaxFormStory.story=0
